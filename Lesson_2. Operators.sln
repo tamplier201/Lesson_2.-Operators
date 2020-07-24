@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson_2. Operators", "Lesson_2. Operators\Lesson_2. Operators.csproj", "{495262E7-1327-40A6-8192-1A0744926D08}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 2.2", "Lesson 2.2\Lesson 2.2.csproj", "{CD64B8D9-18FD-42FC-AA06-223A6CED8BF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson 2.1", "Lesson 2.1\Lesson 2.1.csproj", "{4F486B62-5F4E-4311-B45F-0ED0D5537787}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lesson. Switch operator", "Lesson. Switch operator\Lesson. Switch operator.csproj", "{6674CECA-6501-4C24-86D7-00D89D539ACE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons. Switch homework", "Lessons. Switch homework\Lessons. Switch homework.csproj", "{D94195DA-BD10-484A-A2D3-B7FC0527E8C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lessons. Switch_homework(if_else)", "Lessons. Switch_homework(if_else)\Lessons. Switch_homework(if_else).csproj", "{534F9C5F-77E6-4FDB-8686-C4781AC4536F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{495262E7-1327-40A6-8192-1A0744926D08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{495262E7-1327-40A6-8192-1A0744926D08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{495262E7-1327-40A6-8192-1A0744926D08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{495262E7-1327-40A6-8192-1A0744926D08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD64B8D9-18FD-42FC-AA06-223A6CED8BF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD64B8D9-18FD-42FC-AA06-223A6CED8BF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD64B8D9-18FD-42FC-AA06-223A6CED8BF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD64B8D9-18FD-42FC-AA06-223A6CED8BF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F486B62-5F4E-4311-B45F-0ED0D5537787}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F486B62-5F4E-4311-B45F-0ED0D5537787}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F486B62-5F4E-4311-B45F-0ED0D5537787}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F486B62-5F4E-4311-B45F-0ED0D5537787}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6674CECA-6501-4C24-86D7-00D89D539ACE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6674CECA-6501-4C24-86D7-00D89D539ACE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6674CECA-6501-4C24-86D7-00D89D539ACE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6674CECA-6501-4C24-86D7-00D89D539ACE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D94195DA-BD10-484A-A2D3-B7FC0527E8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D94195DA-BD10-484A-A2D3-B7FC0527E8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D94195DA-BD10-484A-A2D3-B7FC0527E8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D94195DA-BD10-484A-A2D3-B7FC0527E8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534F9C5F-77E6-4FDB-8686-C4781AC4536F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534F9C5F-77E6-4FDB-8686-C4781AC4536F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534F9C5F-77E6-4FDB-8686-C4781AC4536F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534F9C5F-77E6-4FDB-8686-C4781AC4536F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC55DB8-1E17-4E3A-8549-AB6030A0A931}
+	EndGlobalSection
+EndGlobal
